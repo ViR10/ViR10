@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **At UET lahore**
 
-- 📫 How to reach me **https://toboxpro.netlify.app**
+- 📫 How to reach me **https://tolboxpro.netlify.app**
 
 - ⚡ Fun fact **I am studying in Metallurgical and Materials Engineering , Its just for my passion**
 
