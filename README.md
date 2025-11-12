@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adeel Shahid</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Apna Card**
+- 🔭 I’m currently working on **Ecommerce website using react and whatsapp**
 
 - 🌱 I’m currently learning **Metallurgical and Materials Engineering**
 
 - 💬 Ask me about **At UET lahore**
 
-- 📫 How to reach me **https://tolboxpro.netlify.app**
+- 📫 How to reach me **https://virdevelopers.netlify.app**
 
 - ⚡ Fun fact **I am studying in Metallurgical and Materials Engineering , Its just for my passion**
 
