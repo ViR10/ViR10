@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rana Gulsher Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Adeel Shahid</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Ecommerce website using react and whatsapp**
