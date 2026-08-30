@@ -1,20 +1,36 @@
-<h1 align="center">Hi 👋, I'm Adeel Shahid</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+### Hi 👋, I'm Adeel Shahid (ViR)
 
-- 🔭 I’m currently working on **Ecommerce website using react and whatsapp**
+**AI for Materials Engineering | Materials Informatics | Machine Learning | Engineering Software**
 
-- 🌱 I’m currently learning **Metallurgical and Materials Engineering**
+- 🎓 5th-Semester Metallurgical & Materials Engineering student @ **UET Lahore**
+- 🔬 Combining **Materials Engineering, AI, and Software Development** to solve practical engineering problems
+- 🤖 Working on **Materials Informatics & property prediction** using `pymatgen`, `matminer`, and the **Materials Project API**
+- 💻 Building **engineering software & web tools** with Python, JavaScript, React, and FastAPI
+- 🌱 Currently exploring: ML for engineering applications, scientific computing & automation workflows
+- 🤝 Open to remote Materials Informatics/computational roles, research collaborations, and internships (remote & on-site, incl. international)
+- 📫 Reach me: [virdevelopers.netlify.app](https://virdevelopers.netlify.app) · Portfolio: [adeelshahid.netlify.app](https://adeelshahid.netlify.app)
 
-- 💬 Ask me about **At UET lahore**
+---
 
-- 📫 How to reach me **https://virdevelopers.netlify.app**
+### 🔨 Featured Projects
 
-- ⚡ Fun fact **I am studying in Metallurgical and Materials Engineering , Its just for my passion**
+- **Crystallography Learning Platform** — Interactive 3D web app with 300+ Miller Indices exercises for Simple Cubic (SC) structures
+- **MicroBar (Microscope Scale Bar Automation Tool)** — OpenCV utility for calibrated scale-bar insertion & microstructure image processing
+- **Clinical Laboratory Management System** — Full-stack system for patient records, test reports, billing, and workflow automation
+- **RFID Smart Attendance System** — Arduino + Python IoT hardware integration
+- **Gesture-Controlled CV Apps** — Interactive applications built with OpenCV and MediaPipe
+- **ViR Developers** — Custom digital solutions built for labs & businesses
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/vir developers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vir developers" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🛠 Technical Skills
+
+**AI & Informatics:** `pymatgen` `ASE` `matminer` `MP API` `Scikit-learn` `NumPy` `Pandas` `OpenCV` `MediaPipe`
+
+**Materials Engineering:** Crystallography · Physical Metallurgy · Materials Characterization · Microstructure Analysis · Corrosion
+
+**Dev & Hardware:** `Python` `JavaScript` `React` `FastAPI` `Node.js` `Electron` `Git` `Arduino`
+
+---
+
+🌐 **ViR Developers** | Engineering Software • AI Tools • Digital Solutions
